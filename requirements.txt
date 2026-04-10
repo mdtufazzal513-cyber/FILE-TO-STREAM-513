@@ -1,0 +1,7 @@
+fastapi[standard]
+pyrogram
+tgcrypto
+python-dotenv
+python-magic
+firebase-admin
+PyJWT
