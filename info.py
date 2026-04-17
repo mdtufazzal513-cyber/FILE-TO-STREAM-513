@@ -46,4 +46,4 @@ BIND_ADDRESS = os.environ.get("BIND_ADDRESS", "0.0.0.0")
 
 # Render-এ তোমার অ্যাপের ডোমেইন লিংক (লিংক জেনারেট করার জন্য)
 # শেষে যেন স্লাশ (/) না থাকে, যেমন: https://my-bot.onrender.com
-WEB_URL = os.environ.get("WEB_URL", "https://file-to-stream-x332.onrender.com").rstrip("/")
+WEB_URL = os.environ.get("WEB_URL", "https://file-to-stream-513.onrender.com").rstrip("/")
