@@ -1,8 +1,0 @@
-# .gitignore
-.env
-*.session
-*.session-journal
-__pycache__/
-*.pyc
-downloads/
-sessions/  # <-- Add this line
